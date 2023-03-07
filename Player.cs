@@ -63,5 +63,15 @@ namespace MusicPlayerApp
                 Stop();
             }
         }
+
+        public void Shuffle() 
+        {
+
+        }
+        public void ToggleRepeat() 
+        { 
+
+        }
+
     }
 }
